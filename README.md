@@ -1,6 +1,6 @@
 # Human Pose Detection with MoveNet
 
-<img src="pose_detector.png" />
+<img src="img/human-pose-estimation-cover.jpg" />
 
 ## Overview
 This project simplifies the application of the MoveNet model (which depends on MobileNet V2 architecture) to detect and visualize keypoints in a human.
